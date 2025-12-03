@@ -1,0 +1,740 @@
+<tr>
+ <td colspan="4">
+  Last Updated: At 04:03 PM on 15th of June, 2025
+  <br/>
+  <small>
+   This historical train status is for reference only.
+  </small>
+ </td>
+</tr>
+
+
+
+<tr style="height: auto !important;">
+ <th colspan="4" style="text-align: center; height: auto !important;">
+  <script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202511120101/reactive_library_fy2021.js">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-RG247Z577D&amp;cx=c&amp;_slc=1" type="text/javascript">
+  </script>
+  <script async="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js?hash=ca4403c49b98430c8d48bc95282b6ff6">
+  </script>
+  <script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.1&amp;appId=635555099803299&amp;autoLogAppEvents=1">
+  </script>
+  <script async="" src="//www.google-analytics.com/analytics.js">
+  </script>
+  <script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202511120101/show_ads_impl_fy2021.js">
+  </script>
+  <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+  </script>
+  <!-- running_statuspages_web970x90 -->
+  <ins class="adsbygoogle" data-ad-client="ca-pub-3861755694560250" data-ad-slot="6122163870" data-ad-status="filled" data-adsbygoogle-status="done" data-auto-ad-size="true" style="display: inline-block; width: 944px; height: 280px;">
+   <div id="aswift_0_host" style="border: none; height: 280px; width: 944px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;">
+    <iframe allow="attribution-reporting; run-ad-auction" allowtransparency="true" aria-label="Advertisement" data-google-container-id="a!1" data-google-query-id="CPm65uLsnJEDFYXDFgUd-TsDmQ" data-load-complete="true" frameborder="0" height="280" hspace="0" id="aswift_0" marginheight="0" marginwidth="0" name="aswift_0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3861755694560250&amp;output=html&amp;h=280&amp;twa=1&amp;slotname=6122163870&amp;adk=229560758&amp;adf=3365160024&amp;pi=t.ma~as.6122163870&amp;w=944&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1764607922&amp;rafmt=1&amp;armr=4&amp;format=944x280&amp;url=https%3A%2F%2Frunningstatus.in%2Fstatus%2F12749-on-20250612&amp;fwr=0&amp;rs=1&amp;rh=90&amp;rw=944&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;aieuf=1&amp;aicrs=1&amp;uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTQyLjAuNzQ0NC4xNzYiLG51bGwsMCxudWxsLCI2NCIsW1siQ2hyb21pdW0iLCIxNDIuMC43NDQ0LjE3NiJdLFsiR29vZ2xlIENocm9tZSIsIjE0Mi4wLjc0NDQuMTc2Il0sWyJOb3RfQSBCcmFuZCIsIjk5LjAuMC4wIl1dLDBd&amp;abgtt=9&amp;dt=1764607922057&amp;bpp=48&amp;bdt=642&amp;idt=155&amp;shv=r20251118&amp;mjsv=m202511120101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie_enabled=1&amp;eoidce=1&amp;correlator=3417593020604&amp;frm=20&amp;pv=2&amp;u_tz=330&amp;u_his=2&amp;u_h=800&amp;u_w=1280&amp;u_ah=752&amp;u_aw=1280&amp;u_cd=24&amp;u_sd=1.5&amp;dmc=8&amp;adx=82&amp;ady=286&amp;biw=1026&amp;bih=571&amp;scr_x=0&amp;scr_y=0&amp;eid=31095753%2C31095810%2C95376242%2C95376711&amp;oid=2&amp;pvsid=5807090111444341&amp;tmod=1153813256&amp;uas=0&amp;nvt=1&amp;fc=640&amp;brdim=10%2C10%2C10%2C10%2C1280%2C0%2C1050%2C732%2C1036%2C586&amp;vis=1&amp;rsz=%7C%7CpeE%7C&amp;abl=CS&amp;pfx=0&amp;fu=1152&amp;bc=31&amp;bz=1.01&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=192" style="left:0;position:absolute;top:0;border:0;width:944px;height:280px;min-height:auto;max-height:none;min-width:auto;max-width:none;" tabindex="0" title="Advertisement" vspace="0" width="944">
+    </iframe>
+   </div>
+  </ins>
+  <script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+ </th>
+</tr>
+
+
+
+<tr>
+ <th>
+  Station
+  <br/>
+  <small>
+   Code
+  </small>
+ </th>
+ <th>
+  Sch/Act Arrival
+  <br/>
+  <small>
+   Train Arrival Status
+  </small>
+ </th>
+ <th>
+  Sch/Act Departure
+  <br/>
+  <small>
+   Train Departure Status
+  </small>
+ </th>
+ <th>
+  PF
+ </th>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="MTM">
+   Machelipatnam
+  </abbr>
+  <br/>
+  <small>
+   MTM
+  </small>
+ </td>
+ <td>
+  <span class="text-success">
+   Source
+  </span>
+  <br/>
+  <small class="text-warning">
+   No Record
+  </small>
+ </td>
+ <td>
+  08:50 PM /
+  <span class="text-warning">
+   No Record
+  </span>
+  <br/>
+  <small class="text-warning">
+   No Record
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="PAV">
+   Pedana
+  </abbr>
+  <br/>
+  <small>
+   PAV
+  </small>
+ </td>
+ <td>
+  08:59 PM /
+  <span class="text-danger">
+   09:11 PM
+  </span>
+  <br/>
+  <small class="text-danger">
+   12M Late
+  </small>
+ </td>
+ <td>
+  09:00 PM /
+  <span class="text-danger">
+   09:12 PM
+  </span>
+  <br/>
+  <small class="text-danger">
+   12M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="GVL">
+   Gudlavalleru
+  </abbr>
+  <br/>
+  <small>
+   GVL
+  </small>
+ </td>
+ <td>
+  09:14 PM /
+  <span class="text-warning">
+   No Record
+  </span>
+  <br/>
+  <small class="text-warning">
+   No Record
+  </small>
+ </td>
+ <td>
+  09:15 PM /
+  <span class="text-warning">
+   No Record
+  </span>
+  <br/>
+  <small class="text-warning">
+   No Record
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="GDV">
+   Gudivada
+  </abbr>
+  <br/>
+  <small>
+   GDV
+  </small>
+ </td>
+ <td>
+  09:28 PM /
+  <span class="text-danger">
+   09:46 PM
+  </span>
+  <br/>
+  <small class="text-danger">
+   18M Late
+  </small>
+ </td>
+ <td>
+  09:30 PM /
+  <span class="text-danger">
+   09:48 PM
+  </span>
+  <br/>
+  <small class="text-danger">
+   18M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="BZA">
+   Vijayawada
+  </abbr>
+  <br/>
+  <small>
+   BZA
+  </small>
+ </td>
+ <td>
+  10:20 PM /
+  <span class="text-danger">
+   10:37 PM
+  </span>
+  <br/>
+  <small class="text-danger">
+   17M Late
+  </small>
+ </td>
+ <td>
+  10:30 PM /
+  <span class="text-danger">
+   10:47 PM
+  </span>
+  <br/>
+  <small class="text-danger">
+   17M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="KI">
+   Kondapalli
+  </abbr>
+  <br/>
+  <small>
+   KI
+  </small>
+ </td>
+ <td>
+  10:54 PM /
+  <span class="text-danger">
+   11:23 PM
+  </span>
+  <br/>
+  <small class="text-danger">
+   29M Late
+  </small>
+ </td>
+ <td>
+  10:55 PM /
+  <span class="text-danger">
+   11:24 PM
+  </span>
+  <br/>
+  <small class="text-danger">
+   29M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="MDR">
+   Madhira
+  </abbr>
+  <br/>
+  <small>
+   MDR
+  </small>
+ </td>
+ <td>
+  11:29 PM /
+  <span class="text-danger">
+   12:06 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   37M Late
+  </small>
+ </td>
+ <td>
+  11:30 PM /
+  <span class="text-danger">
+   12:07 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   37M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="KMT">
+   Khammam
+  </abbr>
+  <br/>
+  <small>
+   KMT
+  </small>
+ </td>
+ <td>
+  12:04 AM /
+  <span class="text-danger">
+   12:47 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   43M Late
+  </small>
+ </td>
+ <td>
+  12:05 AM /
+  <span class="text-danger">
+   12:48 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   43M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="MABD">
+   Mahbubabad
+  </abbr>
+  <br/>
+  <small>
+   MABD
+  </small>
+ </td>
+ <td>
+  12:38 AM /
+  <span class="text-danger">
+   01:32 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   54M Late
+  </small>
+ </td>
+ <td>
+  12:40 AM /
+  <span class="text-danger">
+   01:34 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   54M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="WL">
+   Warangal
+  </abbr>
+  <br/>
+  <small>
+   WL
+  </small>
+ </td>
+ <td>
+  01:28 AM /
+  <span class="text-danger">
+   02:26 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   58M Late
+  </small>
+ </td>
+ <td>
+  01:30 AM /
+  <span class="text-danger">
+   02:28 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   58M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="KZJ">
+   Kazipet
+  </abbr>
+  <br/>
+  <small>
+   KZJ
+  </small>
+ </td>
+ <td>
+  01:44 AM /
+  <span class="text-danger">
+   02:47 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 3M Late
+  </small>
+ </td>
+ <td>
+  01:45 AM /
+  <span class="text-danger">
+   02:48 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 3M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="ZN">
+   Jangaon
+  </abbr>
+  <br/>
+  <small>
+   ZN
+  </small>
+ </td>
+ <td>
+  02:29 AM /
+  <span class="text-danger">
+   03:36 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 7M Late
+  </small>
+ </td>
+ <td>
+  02:30 AM /
+  <span class="text-danger">
+   03:37 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 7M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="SC">
+   Secunderabad
+  </abbr>
+  <br/>
+  <small>
+   SC
+  </small>
+ </td>
+ <td>
+  04:00 AM /
+  <span class="text-warning">
+   No Record
+  </span>
+  <br/>
+  <small class="text-warning">
+   No Record
+  </small>
+ </td>
+ <td>
+  04:10 AM /
+  <span class="text-warning">
+   No Record
+  </span>
+  <br/>
+  <small class="text-warning">
+   No Record
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="LPI">
+   Lingampalli
+  </abbr>
+  <br/>
+  <small>
+   LPI
+  </small>
+ </td>
+ <td>
+  04:59 AM /
+  <span class="text-danger">
+   06:00 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 1M Late
+  </small>
+ </td>
+ <td>
+  05:00 AM /
+  <span class="text-danger">
+   06:01 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 1M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="VKB">
+   Vikarabad
+  </abbr>
+  <br/>
+  <small>
+   VKB
+  </small>
+ </td>
+ <td>
+  05:38 AM /
+  <span class="text-danger">
+   06:47 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 9M Late
+  </small>
+ </td>
+ <td>
+  05:40 AM /
+  <span class="text-danger">
+   06:49 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 9M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="ZB">
+   Zahirabad
+  </abbr>
+  <br/>
+  <small>
+   ZB
+  </small>
+ </td>
+ <td>
+  06:39 AM /
+  <span class="text-danger">
+   07:45 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 6M Late
+  </small>
+ </td>
+ <td>
+  06:40 AM /
+  <span class="text-danger">
+   07:46 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   1H 6M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <td>
+  <abbr title="BIDR">
+   Bidar
+  </abbr>
+  <br/>
+  <small>
+   BIDR
+  </small>
+ </td>
+ <td>
+  07:38 AM /
+  <span class="text-danger">
+   08:18 AM
+  </span>
+  <br/>
+  <small class="text-danger">
+   40M Late
+  </small>
+ </td>
+ <td>
+  <span class="text-success">
+   Destination
+  </span>
+  <br/>
+  <small class="text-danger">
+   40M Late
+  </small>
+ </td>
+ <td>
+  -
+ </td>
+</tr>
+
+
+
+<tr>
+ <th>
+  Station
+  <br/>
+  <small>
+   Code
+  </small>
+ </th>
+ <th>
+  Sch/Act Arrival
+  <br/>
+  <small>
+   Train Arrival Status
+  </small>
+ </th>
+ <th>
+  Sch/Act Departure
+  <br/>
+  <small>
+   Train Departure Status
+  </small>
+ </th>
+ <th>
+  PF
+ </th>
+</tr>
+
+
+
+<tr>
+ <td colspan="4">
+  Last Updated: At 04:03 PM on 15th of June, 2025
+  <br/>
+  <small>
+   This historical train status is for reference only.
+  </small>
+ </td>
+</tr>
+
+
+

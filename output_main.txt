@@ -1,0 +1,1742 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+  <title>
+   12749 Mtm Bidr Sf Express This Year's Train Running History / Archive
+  </title>
+  <meta content="12749 - Mtm Bidr Sf Express - Train Running History / Archive data for This Year" name="description"/>
+  <meta content="This Year's 12749 - Mtm Bidr Sf Express Live Train Running History, 12749 - Mtm Bidr Sf Express Train Running Status Archive for This Year, This Year Mtm Bidr Sf Express running train history, Mtm Bidr Sf Express past train status history, Mtm Bidr Sf Express train running status history, Mtm Bidr Sf Express train enquiry history" name="keywords"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="https://runningstatus.in/" name="author"/>
+  <link href="https://in.runningstatus.in/img/favicon.ico" rel="shortcut icon"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="https://in.runningstatus.in/img/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="https://in.runningstatus.in/img/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="https://in.runningstatus.in/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://in.runningstatus.in/img/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="https://in.runningstatus.in/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="https://in.runningstatus.in/img/manifest.json" rel="manifest"/>
+  <meta content="#ffffff" name="msapplication-TileColor"/>
+  <meta content="https://in.runningstatus.in/img/ms-icon-144x144.png" name="msapplication-TileImage"/>
+  <meta content="#ffffff" name="theme-color"/>
+  <link href="https://in.runningstatus.in/css/bootandmain.css" rel="stylesheet"/>
+  <meta content="ros" name="atdlayout"/>
+ </head>
+ <body>
+  <!-- BEGIN .app-wrap -->
+  <div class="app-wrap">
+   <!-- BEGIN .app-heading -->
+   <header class="app-header">
+    <div class="container-fluid">
+     <div class="row gutters">
+      <div class="col-xl-5 col-lg-5 col-md-5 col-sm-3 col-4">
+       <a class="mini-nav-btn" href="#" id="app-side-mini-toggler">
+        <i class="icon-sort">
+        </i>
+       </a>
+       <a aria-expanded="true" class="onoffcanvas-toggler" data-toggle="onoffcanvas" href="#app-side">
+        <i class="icon-chevron-thin-left">
+        </i>
+       </a>
+      </div>
+      <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-4">
+       <a class="logo" href="/">
+        <img alt="Live Train Running Status" src="/img/unify.png"/>
+       </a>
+      </div>
+      <div class="col-xl-5 col-lg-5 col-md-5 col-sm-3 col-4">
+       <ul class="header-actions">
+        <li class="dropdown">
+         <a aria-haspopup="true" class="user-settings" data-toggle="dropdown" href="#" id="userSettings">
+          <i alt="RunningStatus.IN Login" class="icon-person_outline">
+          </i>
+          <span class="user-name">
+           Login/SignUp
+          </span>
+          <i class="icon-chevron-small-down">
+          </i>
+         </a>
+         <div aria-labelledby="userSettings" class="dropdown-menu lg dropdown-menu-right">
+          <div class="logout-btn">
+           <a class="btn btn-primary" href="/signup">
+            SignUp
+           </a>
+          </div>
+          <div class="logout-btn">
+           <a class="btn btn-primary" href="/login">
+            LogIn
+           </a>
+          </div>
+         </div>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </header>
+   <!-- END: .app-heading -->
+   <!-- BEGIN .app-container -->
+   <div class="app-container">
+    <!-- BEGIN .app-side -->
+    <aside class="app-side is-closed is-mini" id="app-side">
+     <!-- BEGIN .side-content -->
+     <div class="side-content">
+      <!-- BEGIN .side-nav -->
+      <nav class="side-nav">
+       <!-- BEGIN: side-nav-content -->
+       <ul class="unifyMenu" id="unifyMenu">
+        <li>
+         <a aria-expanded="false" href="/">
+          <span class="has-icon">
+           <span class="icon-home">
+           </span>
+          </span>
+          <span class="nav-title">
+           Home
+          </span>
+         </a>
+        </li>
+        <li>
+         <a aria-expanded="false" href="/status">
+          <span class="has-icon">
+           <i class="icon-train">
+           </i>
+          </span>
+          <span class="nav-title">
+           Running Status
+          </span>
+         </a>
+        </li>
+        <li>
+         <a aria-expanded="false" class="has-arrow" href="#">
+          <span class="has-icon">
+           <span class="icon-ticket">
+           </span>
+          </span>
+          <span class="nav-title">
+           Ticket Related
+          </span>
+         </a>
+         <ul aria-expanded="false">
+          <li>
+           <a href="/trains">
+            Trains Between Stations
+           </a>
+          </li>
+          <li>
+           <a href="/pnrstatus">
+            PNR Status
+           </a>
+          </li>
+          <li>
+           <a href="/trains">
+            Train Seat Availability
+           </a>
+          </li>
+          <li>
+           <a href="/best-trains">
+            Best Trains Between Stations
+           </a>
+          </li>
+          <li>
+           <a href="/availability-train">
+            Availability by Train
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a aria-expanded="false" class="has-arrow" href="#">
+          <span class="has-icon">
+           <span class="icon-tram">
+           </span>
+          </span>
+          <span class="nav-title">
+           Train Enquiry
+          </span>
+         </a>
+         <ul aria-expanded="false">
+          <li>
+           <a href="/status">
+            Train Status
+           </a>
+          </li>
+          <li>
+           <a href="/livetrains">
+            Live Trains
+           </a>
+          </li>
+          <li>
+           <a href="/cancelledtrains">
+            Cancelled Trains
+           </a>
+          </li>
+          <li>
+           <a href="/divertedtrains">
+            Diverted Trains
+           </a>
+          </li>
+          <li>
+           <a href="/rescheduledtrains">
+            Rescheduled Trains
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="active selected">
+         <a aria-expanded="false" class="has-arrow" href="#">
+          <span class="has-icon">
+           <i class="icon-timeline">
+           </i>
+          </span>
+          <span class="nav-title">
+           History
+          </span>
+         </a>
+         <ul aria-expanded="false">
+          <li>
+           <a href="/history">
+            Train History
+           </a>
+          </li>
+          <li>
+           <a href="/history/station">
+            Station History
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a aria-expanded="false" href="/hindi">
+          <span class="has-icon">
+           हिंदी
+          </span>
+          <span class="nav-title">
+           हिंदी
+          </span>
+         </a>
+        </li>
+       </ul>
+       <!-- END: side-nav-content -->
+      </nav>
+      <!-- END: .side-nav -->
+     </div>
+     <!-- END: .side-content -->
+    </aside>
+    <!-- END: .app-side -->
+    <!-- BEGIN .app-main -->
+    <div class="app-main">
+     <!-- BEGIN .main-heading -->
+     <header class="main-heading">
+      <div class="container-fluid">
+       <div class="row">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+         <form action="/check.php" method="GET" name="running_form">
+          <input name="a" type="hidden" value="status"/>
+          <div class="input-group form-group search-block">
+           <input aria-label="Enter Train No. or Name" autocomplete="off" class="form-control" name="trainno" onkeyup="ASTrain(this, 480);" placeholder="Enter Train No. or Name" type="text" value="12749"/>
+          </div>
+         </form>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+         <div class="input-group form-group search-block">
+          <span class="input-group">
+           <select class="form-control" id="rdate" name="date">
+            <option value="20251128">
+             28th of November 2025
+            </option>
+            <option value="20251129">
+             29th of November 2025
+            </option>
+            <option value="20251130">
+             30th of November 2025 (Yesterday)
+            </option>
+            <option selected="" value="20251201">
+             01st of December 2025 (Today)
+            </option>
+            <option value="20251202">
+             02nd of December 2025 (Tomorrow)
+            </option>
+           </select>
+          </span>
+         </div>
+        </div>
+        <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12">
+         <div class="input-group form-group search-block">
+          <span class="input-group-btn">
+           <button class="btn btn-primary" type="submit">
+            Check Status
+           </button>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </header>
+     <!-- END: .main-heading -->
+     <!-- BEGIN .main-content -->
+     <div class="main-content">
+      <!-- Row start -->
+      <div class="row gutters">
+       <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+        <div class="row gutters">
+         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+          <div class="card">
+           <div class="card-body" style="padding:1.25rem;">
+            <div class="stats-widget">
+             <a class="stats-label" data-original-title="Number of times On Time" data-placement="top" data-toggle="tooltip" href="#" title="">
+              24% On Time
+             </a>
+             <div class="stats-widget-header">
+              <h1 class="icon-thumb_up text-success">
+              </h1>
+             </div>
+             <div class="stats-widget-body">
+              <!-- Row start -->
+              <ul class="row no-gutters">
+               <li class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col">
+                <h6 class="title">
+                 On Time
+                </h6>
+               </li>
+               <li class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col">
+                <h4 class="total text-success">
+                 8/34
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+          <div class="card">
+           <div class="card-body" style="padding:1.25rem;">
+            <div class="stats-widget">
+             <a class="stats-label" data-original-title="Number of times late" data-placement="top" data-toggle="tooltip" href="#" title="">
+              76% Delayed
+             </a>
+             <div class="stats-widget-header">
+              <h1 class="icon-thumb_down text-danger">
+              </h1>
+             </div>
+             <div class="stats-widget-body">
+              <!-- Row start -->
+              <ul class="row no-gutters">
+               <li class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col">
+                <h6 class="title">
+                 Late
+                </h6>
+               </li>
+               <li class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col">
+                <h4 class="total text-danger">
+                 26/34
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+          <div class="card">
+           <div class="card-body" style="padding:1.25rem;">
+            <div class="stats-widget">
+             <a class="stats-label" data-original-title="Average Delay" data-placement="top" data-toggle="tooltip" href="#" title="">
+              30 Mins
+             </a>
+             <div class="stats-widget-header">
+              <h1 class="icon-schedule text-danger">
+              </h1>
+             </div>
+             <div class="stats-widget-body">
+              <!-- Row start -->
+              <ul class="row no-gutters">
+               <li class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col">
+                <h6 class="title">
+                 <span class="icon-trending_down">
+                 </span>
+                 Avg. Late
+                </h6>
+               </li>
+               <li class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col">
+                <h4 class="total text-danger">
+                 30
+                 <small>
+                  Mins
+                 </small>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="card">
+         <div class="card-header">
+          <h1 style="font-size:16px;font-weight:bold;color:#4266b2;">
+           <i class="icon-train">
+           </i>
+           12749 - Mtm Bidr Sf Express  Average Delay at Station for this year
+          </h1>
+         </div>
+         <div id="ATD_RS-D-ap-728x90-inr1">
+         </div>
+         <div class="card-body" style="padding:1.25rem;">
+          <table class="table table-striped table-bordered">
+           <thead>
+            <tr>
+             <th>
+              Station
+              <br/>
+              <small>
+               Distance
+              </small>
+             </th>
+             <th>
+              Avg. Delay
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td>
+              <abbr title="MTM">
+               Machelipatnam
+              </abbr>
+              <br/>
+              <small>
+               0 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               01 Min
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="PAV">
+               Pedana
+              </abbr>
+              <br/>
+              <small>
+               10 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               07 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="GVL">
+               Gudlavalleru
+              </abbr>
+              <br/>
+              <small>
+               26 KM's
+              </small>
+             </td>
+             <td>
+              -
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="GDV">
+               Gudivada
+              </abbr>
+              <br/>
+              <small>
+               37 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               10 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="BZA">
+               Vijayawada
+              </abbr>
+              <br/>
+              <small>
+               81 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               09 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="KI">
+               Kondapalli
+              </abbr>
+              <br/>
+              <small>
+               98 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               20 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="MDR">
+               Madhira
+              </abbr>
+              <br/>
+              <small>
+               138 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               22 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="KMT">
+               Khammam
+              </abbr>
+              <br/>
+              <small>
+               182 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               28 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="MABD">
+               Mahbubabad
+              </abbr>
+              <br/>
+              <small>
+               230 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               39 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="WL">
+               Warangal
+              </abbr>
+              <br/>
+              <small>
+               291 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               37 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="KZJ">
+               Kazipet
+              </abbr>
+              <br/>
+              <small>
+               303 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               42 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="ZN">
+               Jangaon
+              </abbr>
+              <br/>
+              <small>
+               351 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               46 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="SC">
+               Secunderabad
+              </abbr>
+              <br/>
+              <small>
+               433 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               38 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="LPI">
+               Lingampalli
+              </abbr>
+              <br/>
+              <small>
+               456 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               35 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="VKB">
+               Vikarabad
+              </abbr>
+              <br/>
+              <small>
+               506 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               46 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="ZB">
+               Zahirabad
+              </abbr>
+              <br/>
+              <small>
+               565 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               45 Mins
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <abbr title="BIDR">
+               Bidar
+              </abbr>
+              <br/>
+              <small>
+               596 KM's
+              </small>
+             </td>
+             <td>
+              <span class="text-danger">
+               28 Mins
+              </span>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        <div class="card">
+         <div class="card-header">
+          <h1 style="font-size:16px;font-weight:bold;color:#4266b2;">
+           12749 - Mtm Bidr Sf Express Train Running History for this year
+          </h1>
+         </div>
+         <div class="card-body" style="padding:1.25rem;">
+          <table class="table table-striped table-bordered">
+           <thead>
+            <tr>
+             <th>
+              Start Date
+             </th>
+             <th>
+              <small>
+               Delay Departure
+               <br/>
+               Delay Arrival
+              </small>
+             </th>
+             <th>
+              <small>
+               Departure Time
+               <br/>
+               Arrival Time
+              </small>
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 40 Mins and reached its destination at 08:18 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250612" rel="noindex, follow, archive" title="">
+               12 Jun, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               40 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               08:18 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 42 Mins and reached its destination at 08:20 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250613" rel="noindex, follow, archive" title="">
+               13 Jun, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               42 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               08:20 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 56 Mins and reached its destination at 08:34 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250614" rel="noindex, follow, archive" title="">
+               14 Jun, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               01 Min Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               56 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:51 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               08:34 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 02 Hrs 02 Mins and reached its destination at 09:40 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250615" rel="noindex, follow, archive" title="">
+               15 Jun, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               02 Mins Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               02 Hrs 02 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:52 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               09:40 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 01 Hr 03 Mins and reached its destination at 08:41 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250616" rel="noindex, follow, archive" title="">
+               16 Jun, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               01 Hr 03 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               08:41 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 02 Hrs 26 Mins and reached its destination at 10:04 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250630" rel="noindex, follow, archive" title="">
+               30 Jun, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               02 Hrs 26 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               10:04 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 12 Mins and reached its destination at 07:50 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250802" rel="noindex, follow, archive" title="">
+               02 Aug, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               02 Mins Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               12 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:52 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:50 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 42 Mins and reached its destination at 08:20 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250803" rel="noindex, follow, archive" title="">
+               03 Aug, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               42 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               08:20 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 20 Mins and reached its destination at 07:58 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250804" rel="noindex, follow, archive" title="">
+               04 Aug, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               20 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:58 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 12 Mins and reached its destination at 07:50 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250806" rel="noindex, follow, archive" title="">
+               06 Aug, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               01 Min Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               12 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:51 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:50 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 14 Mins and reached its destination at 07:52 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250809" rel="noindex, follow, archive" title="">
+               09 Aug, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               01 Min Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               14 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:51 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:52 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 02 Mins and reached its destination at 07:40 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250811" rel="noindex, follow, archive" title="">
+               11 Aug, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               02 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:40 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 02 Mins and reached its destination at 07:40 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250826" rel="noindex, follow, archive" title="">
+               26 Aug, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               02 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:40 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 11 Mins and reached its destination at 07:49 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250907" rel="noindex, follow, archive" title="">
+               07 Sep, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               01 Min Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               11 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:51 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:49 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train Reached its destination On Time" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250912" rel="noindex, follow, archive" title="">
+               12 Sep, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               01 Min Late
+              </small>
+              <br/>
+              <small class="text-success">
+               No Delay
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:51 PM
+              </small>
+              <br/>
+              <small class="text-success">
+               07:28 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train Reached its destination On Time" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250913" rel="noindex, follow, archive" title="">
+               13 Sep, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-success">
+               No Delay
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-success">
+               07:28 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train Reached its destination On Time" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250914" rel="noindex, follow, archive" title="">
+               14 Sep, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-success">
+               No Delay
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-success">
+               07:24 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 03 Mins and reached its destination at 07:41 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20250926" rel="noindex, follow, archive" title="">
+               26 Sep, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               03 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:41 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train Reached its destination On Time" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251001" rel="noindex, follow, archive" title="">
+               01 Oct, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-success">
+               No Delay
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-success">
+               07:17 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 08 Mins and reached its destination at 07:46 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251008" rel="noindex, follow, archive" title="">
+               08 Oct, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               08 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:46 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 25 Mins and reached its destination at 08:03 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251014" rel="noindex, follow, archive" title="">
+               14 Oct, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               02 Mins Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               25 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:52 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               08:03 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 18 Mins and reached its destination at 07:56 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251023" rel="noindex, follow, archive" title="">
+               23 Oct, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               18 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:56 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train Reached its destination On Time" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251030" rel="noindex, follow, archive" title="">
+               30 Oct, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               01 Min Late
+              </small>
+              <br/>
+              <small class="text-success">
+               No Delay
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:51 PM
+              </small>
+              <br/>
+              <small class="text-success">
+               07:08 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train Reached its destination On Time" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251107" rel="noindex, follow, archive" title="">
+               07 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-success">
+               No Delay
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-success">
+               07:14 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 11 Mins and reached its destination at 07:49 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251108" rel="noindex, follow, archive" title="">
+               08 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               11 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:49 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 08 Mins and reached its destination at 07:46 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251112" rel="noindex, follow, archive" title="">
+               12 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               01 Min Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               08 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:51 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:46 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 49 Mins and reached its destination at 08:27 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251113" rel="noindex, follow, archive" title="">
+               13 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-danger">
+               01 Min Late
+              </small>
+              <br/>
+              <small class="text-danger">
+               49 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-danger">
+               08:51 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               08:27 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train Reached its destination On Time" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251115" rel="noindex, follow, archive" title="">
+               15 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-success">
+               No Delay
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-success">
+               07:17 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 09 Mins and reached its destination at 07:47 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251117" rel="noindex, follow, archive" title="">
+               17 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               09 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:47 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 24 Mins and reached its destination at 08:02 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251122" rel="noindex, follow, archive" title="">
+               22 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               24 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               08:02 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 19 Mins and reached its destination at 07:57 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251123" rel="noindex, follow, archive" title="">
+               23 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               19 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:57 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train Reached its destination On Time" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251128" rel="noindex, follow, archive" title="">
+               28 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-success">
+               No Delay
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-success">
+               07:14 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 14 Mins and reached its destination at 07:52 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251129" rel="noindex, follow, archive" title="">
+               29 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               14 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:52 AM
+              </small>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a class="text-info" data-original-title="12749 Mtm Bidr Sf Express Train was Delayed by 05 Mins and reached its destination at 07:43 AM" data-placement="top" data-toggle="tooltip" href="/status/12749-on-20251130" rel="noindex, follow, archive" title="">
+               30 Nov, 2025
+              </a>
+             </td>
+             <td>
+              <small class="text-success">
+               No Delay
+              </small>
+              <br/>
+              <small class="text-danger">
+               05 Mins Late
+              </small>
+             </td>
+             <td>
+              <small class="text-success">
+               08:50 PM
+              </small>
+              <br/>
+              <small class="text-danger">
+               07:43 AM
+              </small>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3">
+        <div class="card">
+         <div class="card-body" style="text-align:center;">
+          <div id="ATD_RS-D-sp-300x250-rhs">
+          </div>
+         </div>
+        </div>
+        <div class="card">
+         <div class="card-header">
+          Status History Pie chart for 34 Runs
+         </div>
+         <div class="card-body">
+          <div class="chartist custom-two">
+           <div class="pie-chart">
+           </div>
+          </div>
+          <div class="row gutters">
+           <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col">
+            <div class="info-stats">
+             <span class="info-label green">
+             </span>
+             <p class="info-title">
+              On Time
+             </p>
+             <h4 class="info-total">
+              24%
+             </h4>
+            </div>
+           </div>
+           <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col">
+            <div class="info-stats">
+             <span class="info-label red">
+             </span>
+             <p class="info-title">
+              Late
+             </p>
+             <h4 class="info-total">
+              76%
+             </h4>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="card">
+         <a class="btn btn-info" href="/status/12749">
+          12749 Mtm Bidr Sf Express Status
+         </a>
+        </div>
+       </div>
+      </div>
+      <!-- Row end -->
+     </div>
+     <!-- END: .main-content -->
+    </div>
+    <!-- END: .app-main -->
+   </div>
+   <!-- END: .app-container -->
+   <footer class="main-footer fixed-btm">
+    Copyright RunningStatus.in 2025
+    <div class="float-right">
+     <div class="fb-like" data-action="like" data-href="https://runningstatus.in/" data-layout="button_count" data-share="true" data-show-faces="false" data-size="small" data-width="100">
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- END: .app-wrap -->
+  <script src="/js/loadcss.js">
+  </script>
+  <script id="loadcss">
+   loadCSS("https://in.runningstatus.in/fonts/icomoon/icomoon.css");
+loadCSS("https://in.runningstatus.in/css/jquery-ui.css");
+loadCSS("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700");
+loadCSS("https://in.runningstatus.in/css/running.css");
+  </script>
+  <!-- jQuery first, then Tether, then other JS. -->
+  <script src="https://in.runningstatus.in/js/jquery.js">
+  </script>
+  <script src="https://in.runningstatus.in/js/tether.min.js">
+  </script>
+  <script src="https://in.runningstatus.in/js/bootstrap.min.js">
+  </script>
+  <script src="https://in.runningstatus.in/vendor/unifyMenu/unifyMenu.js">
+  </script>
+  <script src="https://in.runningstatus.in/vendor/onoffcanvas/onoffcanvas.js">
+  </script>
+  <script src="https://in.runningstatus.in/js/moment.js">
+  </script>
+  <!-- Slimscroll JS -->
+  <script src="https://in.runningstatus.in/vendor/slimscroll/slimscroll.min.js">
+  </script>
+  <script src="https://in.runningstatus.in/vendor/slimscroll/custom-scrollbar.js">
+  </script>
+  <!-- Common JS -->
+  <script src="https://in.runningstatus.in/js/common.js">
+  </script>
+  <script src="https://in.runningstatus.in/js/autosuggest.js">
+  </script>
+  <script src="https://in.runningstatus.in/js/running.js">
+  </script>
+  <!-- Chartist JS -->
+  <link href="https://in.runningstatus.in/vendor/chartist/css/chartist.min.css" rel="stylesheet"/>
+  <link href="https://in.runningstatus.in/vendor/chartist/css/chartist-custom.css" rel="stylesheet"/>
+  <script src="https://in.runningstatus.in/vendor/chartist/js/chartist.min.js">
+  </script>
+  <script src="https://in.runningstatus.in/vendor/chartist/js/chartist-tooltip.js">
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function () {      
+});
+  </script>
+  <link href="https://in.runningstatus.in/css/datepicker.css" rel="stylesheet"/>
+  <script src="https://in.runningstatus.in/js/jquery-ui.min.js">
+  </script>
+  <script type="text/javascript">
+   $(function() {
+                $("#fdate").datepicker({
+                //comment the beforeShow handler if you want to see the ugly overlay
+                beforeShow: function() {
+                    setTimeout(function(){
+                        $('.ui-datepicker').css('z-index', 10);
+                    }, 0);
+                }
+				});
+				
+				$("#tdate").datepicker({
+                //comment the beforeShow handler if you want to see the ugly overlay
+                beforeShow: function() {
+                    setTimeout(function(){
+                        $('.ui-datepicker').css('z-index', 10);
+                    }, 0);
+                }
+				});
+});
+  </script>
+  <script>
+   new Chartist.Pie('.pie-chart', {
+  series: [24, 76],
+}, {
+	pie: true,
+	showLabel: false,
+	height: "180px",
+	low: 0
+});
+  </script>
+  <script>
+   function showhistoryseldates() {
+var seldate = $('#rdatesel').val();
+if(seldate=="seldates") {
+$('#selectduration').hide();
+$('#selectfdate').show();
+$('#selecttdate').show();
+} // if ends
+} // function ends
+  </script>
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1&appId=635555099803299&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+  </script>
+ </body>
+</html>

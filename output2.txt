@@ -1,0 +1,138 @@
+<th colspan="4" style="text-align: center; height: auto !important;">
+<script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202511120101/reactive_library_fy2021.js?bust=95377246"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-RG247Z577D&amp;cx=c&amp;_slc=1" type="text/javascript"></script><script async="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js?hash=ca4403c49b98430c8d48bc95282b6ff6"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.1&amp;appId=635555099803299&amp;autoLogAppEvents=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202511120101/show_ads_impl_fy2021.js?bust=95377246"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- running_statuspages_web970x90 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-3861755694560250" data-ad-slot="6122163870" data-ad-status="filled" data-adsbygoogle-status="done" data-auto-ad-size="true" style="display: inline-block; width: 944px; height: 280px;"><div id="aswift_0_host" style="border: none; height: 280px; width: 944px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;"><iframe allow="attribution-reporting; run-ad-auction" allowtransparency="true" aria-label="Advertisement" data-google-container-id="a!1" data-google-query-id="CNOdh5ftnJEDFTmn2AUdLhUU2A" data-load-complete="true" frameborder="0" height="280" hspace="0" id="aswift_0" marginheight="0" marginwidth="0" name="aswift_0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3861755694560250&amp;output=html&amp;h=280&amp;twa=1&amp;slotname=6122163870&amp;adk=229560758&amp;adf=3365160024&amp;pi=t.ma~as.6122163870&amp;w=944&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1764608031&amp;rafmt=1&amp;armr=4&amp;format=944x280&amp;url=https%3A%2F%2Frunningstatus.in%2Fstatus%2F12749-on-20250612&amp;fwr=0&amp;rs=1&amp;rh=90&amp;rw=944&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTQyLjAuNzQ0NC4xNzYiLG51bGwsMCxudWxsLCI2NCIsW1siQ2hyb21pdW0iLCIxNDIuMC43NDQ0LjE3NiJdLFsiR29vZ2xlIENocm9tZSIsIjE0Mi4wLjc0NDQuMTc2Il0sWyJOb3RfQSBCcmFuZCIsIjk5LjAuMC4wIl1dLDBd&amp;abgtt=9&amp;dt=1764608031653&amp;bpp=11&amp;bdt=724&amp;idt=165&amp;shv=r20251118&amp;mjsv=m202511120101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie_enabled=1&amp;eoidce=1&amp;correlator=4974563951848&amp;frm=20&amp;pv=2&amp;u_tz=330&amp;u_his=2&amp;u_h=800&amp;u_w=1280&amp;u_ah=752&amp;u_aw=1280&amp;u_cd=24&amp;u_sd=1.5&amp;dmc=8&amp;adx=82&amp;ady=286&amp;biw=1026&amp;bih=571&amp;scr_x=0&amp;scr_y=0&amp;eid=31095753%2C31095809%2C31095811%2C31095813%2C95376241%2C95376582%2C95376711%2C31095815%2C42533293%2C95344790%2C95372615%2C95377246&amp;oid=2&amp;pvsid=1973964729268880&amp;tmod=748084830&amp;uas=0&amp;nvt=1&amp;fc=896&amp;brdim=10%2C10%2C10%2C10%2C1280%2C0%2C1050%2C732%2C1036%2C586&amp;vis=1&amp;rsz=%7C%7CpeE%7C&amp;abl=CS&amp;pfx=0&amp;fu=1152&amp;bc=31&amp;bz=1.01&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=196" style="left:0;position:absolute;top:0;border:0;width:944px;height:280px;min-height:auto;max-height:none;min-width:auto;max-width:none;" tabindex="0" title="Advertisement" vspace="0" width="944"></iframe></div></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</th>
+
+
+<th>Station<br/><small>Code</small></th>
+
+
+<td><abbr title="MTM">Machelipatnam</abbr><br/><small>MTM</small></td>
+
+
+<td><abbr title="PAV">Pedana</abbr><br/><small>PAV</small></td>
+
+
+<td><abbr title="GVL">Gudlavalleru</abbr><br/><small>GVL</small></td>
+
+
+<td><abbr title="GDV">Gudivada</abbr><br/><small>GDV</small></td>
+
+
+<td><abbr title="BZA">Vijayawada</abbr><br/><small>BZA</small></td>
+
+
+<td><abbr title="KI">Kondapalli</abbr><br/><small>KI</small></td>
+
+
+<td><abbr title="MDR">Madhira</abbr><br/><small>MDR</small></td>
+
+
+<td><abbr title="KMT">Khammam</abbr><br/><small>KMT</small></td>
+
+
+<td><abbr title="MABD">Mahbubabad</abbr><br/><small>MABD</small></td>
+
+
+<td><abbr title="WL">Warangal</abbr><br/><small>WL</small></td>
+
+
+<td><abbr title="KZJ">Kazipet</abbr><br/><small>KZJ</small></td>
+
+
+<td><abbr title="ZN">Jangaon</abbr><br/><small>ZN</small></td>
+
+
+<td><abbr title="SC">Secunderabad</abbr><br/><small>SC</small></td>
+
+
+<td><abbr title="LPI">Lingampalli</abbr><br/><small>LPI</small></td>
+
+
+<td><abbr title="VKB">Vikarabad</abbr><br/><small>VKB</small></td>
+
+
+<td><abbr title="ZB">Zahirabad</abbr><br/><small>ZB</small></td>
+
+
+<td><abbr title="BIDR">Bidar</abbr><br/><small>BIDR</small></td>
+
+
+<th>Station<br/><small>Code</small></th>
+
+
+<td colspan="4">Last Updated: At 04:03 PM on 15th of June, 2025<br/><small>This historical train status is for reference only.</small></td>
+
+
+
+
+
+
+
+
+
+
+StationCode
+
+
+MachelipatnamMTM
+
+
+PedanaPAV
+
+
+GudlavalleruGVL
+
+
+GudivadaGDV
+
+
+VijayawadaBZA
+
+
+KondapalliKI
+
+
+MadhiraMDR
+
+
+KhammamKMT
+
+
+MahbubabadMABD
+
+
+WarangalWL
+
+
+KazipetKZJ
+
+
+JangaonZN
+
+
+SecunderabadSC
+
+
+LingampalliLPI
+
+
+VikarabadVKB
+
+
+ZahirabadZB
+
+
+BidarBIDR
+
+
+StationCode
+
+
+Last Updated: At 04:03 PM on 15th of June, 2025This historical train status is for reference only.
+
+
