@@ -21,26 +21,33 @@ user_agents = [
 url_main = "https://runningstatus.in"
 
 
-def scrape(req_station="lingampalli", train_num="12749",cache_override=False):
+def scrape(req_station="lingampalli", train_num="12749",cache_override=False,scopes = ["lastyear","thisyear"] ,cache_update=False):
     """
     Scrape running status information for a specific Train at specific station.
     """
-
-    # TODO : First check cache for exitsting results
-    if not cache_override :
-        cache_data = cache_results(train_num,req_station)
-        if cache_data["is_avaliable"] :
-            print(f"Found Cache Not Scraping!")
-            return cache_data["data"]
-    
-    # TODO ; remove this
-    test_limit = 2
 
     scrape_output = {}
     cache_input = {"train-no": train_num, "each_station_data": {
     }}
 
-    scopes = ["lastyear", "thisyear"]  # order maintain
+    # TODO : First check cache for exitsting results
+    cache_found = False 
+
+    if not cache_override :
+        cache_data = cache_results(train_num,req_station)
+        if cache_data["is_avaliable"] :
+            if not cache_update : 
+                print(f"Found Cache Not Scraping!")
+                return cache_data["data"]
+            else :
+                cache_found = True
+                print("need to update cache")
+
+    # TODO ; remove this
+    test_limit = 4
+
+
+     # order maintain
 
     for scope in scopes:
         url = "https://runningstatus.in/history/12749/" + scope
@@ -60,16 +67,25 @@ def scrape(req_station="lingampalli", train_num="12749",cache_override=False):
         # TODO : do caching to avoid multiple requests
 
         dates = soup.select("td a")
-        i = 0 
+        i = 0
+    
         for date in dates:
+            # testing 
             if i >= test_limit :
+                print("Test limit reached")
                 break 
             i += 1
+            
             date_str = date.text
+            if cache_found :
+                if date_str in cache_data["data"].keys() :
+                    print(f"Skipping cached date : {date_str} ")
+                    continue
+                else :
+                    print(f"Date {date_str} not in cache , scraping... ")
+        
+            ## 
             date_page_link = date.get("href")
-
-            # TODO : remove below
-            date_page_link = "/status/12749-on-20250616"
 
             date_page_link = url_main + date_page_link
             print(f'Going to -------{date_page_link} --------')
@@ -81,7 +97,7 @@ def scrape(req_station="lingampalli", train_num="12749",cache_override=False):
             # options.add_argument('--disable-dev-shm-usage')
             # options.add_argument('--no-sandbox')
             options.add_argument(f'user-agent={random.choice(user_agents)}')
-
+            options.add_argument("--headless=new")
             driver = webdriver.Chrome(options=options)
             # TODO : headless mode 
             try:
@@ -143,14 +159,19 @@ def scrape(req_station="lingampalli", train_num="12749",cache_override=False):
                 #     f.write(soup.prettify()[:18000])
                 # print(soup.prettify())
 
+
             finally:
                 # Ensure driver closes even if error occurs
                 driver.quit()
 
-            break
+            
     
     print(f"Scrape data : {scrape_output} \n\n cache_data : {cache_input}")
     save_cache(cache_input)
+
     return scrape_output
+
+
 if __name__ == "__main__" :
-    print(scrape())
+    print(scrape(cache_update=True))
+
