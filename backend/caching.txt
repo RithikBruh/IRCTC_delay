@@ -1,0 +1,5 @@
+Directory Structure: You can create a directory for each train number, and inside that, store individual files for each station. For example, you might have a directory named after the train number, and then within it, separate files for each station. This way, it’s easy to locate and manage data.
+
+File Formats: You can store the raw HTML data as one file and the parsed, cleaned data (the actual useful information) as another file, like JSON or CSV. This keeps things organized and makes it easier to update or debug.
+
+Versioning and Expiry: You can also implement versioning or expiry times for your cache. That way, if the data changes on the website, you can periodically refresh the cache

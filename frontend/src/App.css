@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(25, 24, 24);
+}
+
+.heading-container{
+    display : flex ; 
+    justify-content: center;
+    align-items : center ;
+    gap : 1em ;
+}
+
+.heading {
+    font-size : 3em ;
+    color : rgb(229, 244, 19) ;
+    font-weight: 700;
+}
+
+.logo{
+    width: 4em;
+}
+
+.description {
+    text-align : center ;
+    color : white ;
+}

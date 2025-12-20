@@ -1,0 +1,16 @@
+.search-container {
+    display: flex ;
+    justify-content : center ;
+    align-items : center ;
+    gap : 0.4em ;
+    padding-top : 1.5em ;
+}
+
+.station-input , .train-input {
+    background-color: rgb(59, 59, 59);
+    color : white ;
+    border-radius: 6px;
+    border: none;
+    font-size : 1.2em ;
+}
+

@@ -1,7 +1,0 @@
-requests
-bs4
-selenium
-regex
-lxml
-undetected_chromedriver
-matplotlib
